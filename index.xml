@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timblog.</title>
-    <link>/</link>
+    <link>http://chronoslynx.github.io/</link>
     <description>Recent content on Timblog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Feb 2015 18:15:54 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://chronoslynx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>/about/</link>
+      <link>http://chronoslynx.github.io/about/</link>
       <pubDate>Wed, 25 Feb 2015 18:15:54 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://chronoslynx.github.io/about/</guid>
       <description>&lt;p&gt;Hey, I&amp;rsquo;m Tim. I&amp;rsquo;m a computer scientist.
 That&amp;rsquo;s all I&amp;rsquo;m putting here for now.&lt;/p&gt;
 </description>
